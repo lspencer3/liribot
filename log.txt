@@ -1,0 +1,46 @@
+movie-this: the lion King
+
+Title: The Lion King
+Year: 1994
+IMDB Rating: 8.5
+Rotten Tomatos Rating: 92%
+Country: USA
+Languages: English, Swahili, Xhosa, Zulu
+Plot: Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame, Jim Cummings
+spotify-this-song: I want it that way
+
+Artists: "Backstreet Boys"
+Track Name: "I Want It That Way"
+Preview Link: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8c049ee754d54607831b325c2ae0ca71"
+Album Name: "The Hits--Chapter One"
+
+I am a tweetWed Oct 11 22:17:11 +0000 2017
+
+lets see what happens :DWed Oct 11 17:17:50 +0000 2017
+
+hoping i can get this to workWed Oct 11 17:17:39 +0000 2017
+
+first tweet for my liri botWed Oct 11 17:17:28 +0000 2017
+spotify-this-song: undefined
+
+Artists: "Harry Styles"
+Track Name: "Sign of the Times"
+Preview Link: "https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=8c049ee754d54607831b325c2ae0ca71"
+Album Name: "Sign of the Times"
+movie-this: undefined
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatos Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Languages: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+spotify-this-song: "I Want it That Way"
+
+Artists: "Backstreet Boys"
+Track Name: "I Want It That Way"
+Preview Link: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8c049ee754d54607831b325c2ae0ca71"
+Album Name: "The Hits--Chapter One"
