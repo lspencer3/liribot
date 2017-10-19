@@ -1,7 +1,9 @@
 //create filesystem variable
 var fs = require('fs');
+
 //created variable for keys from keys file
 var keys = require("./keys.js");
+
 //create variables for installs
 var Twitter = require("twitter");
 var Spotify = require("node-spotify-api");
@@ -13,8 +15,10 @@ var spotify = new Spotify(keys.spotifyKeys);
 
 var twitter = new Twitter(keys.twitterKeys);
 //console.log(twitter);
+
 //twitter user id for search
 var twitscreenName = {user_id:"lspencerliribot"};
+
 //variable for omdb key
 var omdbKey= keys.omdb.key;
 
@@ -133,6 +137,8 @@ if (process.argv.length === 2){
 else if (process.argv.length >=3){
   runCommand()
 };
+
+//ask about log errors and research tweet limits
 
 
 
